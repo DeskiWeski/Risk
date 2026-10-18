@@ -50,4 +50,4 @@ HONEST NOTES
 - Neighborhood boundaries and positions are my approximation. Willoway, Walmart Street (Vine St)
   and Surfside are placed by best guess. Route 91 is not on the map; it is only an event name.
 - Gang and character names are fictional cartoon versions.
-- Not tested with real phones on a live GitHub Pages link; online play was tested with a simulated connection.
+- Not tested with real phones on a live GitHub Pages link; online play was tested with a simulated connection.  
